@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap');
+*{
+     font-family: 'Noto Serif', serif;
+
+}
+.navbar {
+    margin: 7px; 
+}
+.nav-item{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a { 
+    color: #ffffff;
+}
